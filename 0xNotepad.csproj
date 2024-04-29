@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>_0xNotepad</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="manifests\CSharp-Mode.xshd" />
+    <None Remove="manifests\python.xshd" />
+    <None Remove="manifests\Resources\CSS-Mode.xshd" />
+    <None Remove="manifests\Resources\HTML-Mode.xshd" />
+    <None Remove="manifests\Resources\Java-Mode.xshd" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="manifests\Resources\CSS-Mode.xshd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manifests\Resources\HTML-Mode.xshd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manifests\Resources\Java-Mode.xshd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manifests\Resources\python-Mode.xshd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="manifests\Resources\CSharp-Mode.xshd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AvalonEdit" Version="6.3.0.90" />
+  </ItemGroup>
+
+</Project>

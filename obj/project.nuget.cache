@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ebm0svxgcASfgGjT8nUF+fZGfIysyey2C8txdTh9rSi8tSq7t0AaI4/md5lHKjy4V0KtfnHutFVVhb/oFd+95g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iljas\\source\\repos\\0xNotepad\\0xNotepad\\0xNotepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iljas\\.nuget\\packages\\avalonedit\\6.3.0.90\\avalonedit.6.3.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

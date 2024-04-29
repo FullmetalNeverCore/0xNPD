@@ -1,0 +1,11 @@
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\0xNotepad.exe
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\manifests\Resources\CSS-Mode.xshd
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\manifests\Resources\HTML-Mode.xshd
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\manifests\Resources\Java-Mode.xshd
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\manifests\Resources\python-Mode.xshd
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\manifests\Resources\CSharp-Mode.xshd
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\0xNotepad.dll
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\0xNotepad.deps.json
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\0xNotepad.runtimeconfig.json
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\0xNotepad.pdb
+C:\Users\iljas\source\repos\0xNotepad\0xNotepad\bin\Release\net8.0-windows\publish\ICSharpCode.AvalonEdit.dll
